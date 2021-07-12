@@ -1,0 +1,12 @@
+{
+  "name": "json_server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {}
+}

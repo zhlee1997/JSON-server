@@ -1,0 +1,1064 @@
+{
+  "empty": {},
+  "user": {
+    "userInfo": {
+      "scopes": [
+        "https://www.googleapis.com/auth/userinfo.profile",
+        "https://www.googleapis.com/auth/userinfo.email"
+      ],
+      "serverAuthCode": null,
+      "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI2M2VlMGJlMDkzZDliYzMxMmQ5NThjOTk2NmQyMWYwYzhmNmJiYmIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMDQyMzA3MjU5NC1uMnBjZWtxbHJkY2x1a2FrN2F1bDJsZzg1MGd0ajVrbi5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMwNDIzMDcyNTk0LWlkM2huZDNpMDFjYmszbWs5cG9pYThiMXNhN3ByYmJyLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExMTk1NjQ5MjIyNjMzOTc4MzM2IiwiZW1haWwiOiJqYWNrc29ubHpjMTRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJKYWNrc29uIExlZSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHZ2xnc2JvQk15M2NsRlo0ZkRDNExkR0FNYkFWbUlCbFRiRXhJcVY9czk2LWMiLCJnaXZlbl9uYW1lIjoiSmFja3NvbiIsImZhbWlseV9uYW1lIjoiTGVlIiwibG9jYWxlIjoiZW4tR0IiLCJpYXQiOjE1OTU1NTc2MjAsImV4cCI6MTU5NTU2MTIyMH0.RWo7RTlPd2D4lIkkrLOGiAekTJw0NHqrrU2y7zWzgx6xbfIp7yIyyEz9Kanvfsl7Z10O4vkM7bZJVyE7_9qRmnTHFC8mbAU9-dvUGAjR-epoQHmIxKnGAhfCEsgYF32bf6odoHcuDqaZXzRM0FAe6J4n8Td00sBcPMtVX6BAYGhAnFxB-Ivm7q6Er5JLb7qPZcKAbv27auXUYt5-3we8iqFtmQLptkdkv4KDPoUOeCxnkLdYAcMbQayv8aDsOSTQGTtdaf914UKzD3ghTPjuYPbbNlOJU4L_uQunCKXOXjn0yOOpXX38QHszzOhMNROLgmw7S_-llldL-5HDxI6iuQ",
+      "user": {
+        "photo": "https://lh3.googleusercontent.com/a-/AOh14GglgsboBMy3clFZ4fDC4LdGAMbAVmIBlTbExIqV=s96-c",
+        "email": "jacksonlzc14@gmail.com",
+        "familyName": "Lee",
+        "givenName": "Jackson",
+        "name": "Jackson Lee",
+        "id": "111195649222633978336"
+      }
+    }
+  },
+  "talikhidmat": [
+    {
+      "address": "Apple Campus, Cupertino, CA, 95014",
+      "latitude": "37.33233141",
+      "longitude": "-122.0312186",
+      "category": "Complaint",
+      "message": "adasdsdasd",
+      "_id": 1
+    },
+    {
+      "address": "Apple Campus, Cupertino, CA, 95014",
+      "latitude": "37.33233141",
+      "longitude": "-122.0312186",
+      "category": "Complaint",
+      "message": "asd",
+      "_id": 2
+    },
+    {
+      "address": "Apple Campus, Cupertino, CA, 95014",
+      "latitude": "37.33233141",
+      "longitude": "-122.0312186",
+      "category": "Complaint",
+      "message": "sad",
+      "_id": 3
+    },
+    {
+      "address": "Apple Campus, Cupertino, CA, 95014",
+      "latitude": "37.33233141",
+      "longitude": "-122.0312186",
+      "category": "Complaint",
+      "message": "dfsd",
+      "_id": 4
+    },
+    {
+      "address": "Apple Campus, Cupertino, CA, 95014",
+      "latitude": "37.33233141",
+      "longitude": "-122.0312186",
+      "category": "Complaint",
+      "message": "sd",
+      "_id": 5
+    }
+  ],
+  "busStation": [
+    {
+      "_id": "1",
+      "latitude": "1.562637",
+      "longitude": "110.346435"
+    },
+    {
+      "_id": "2",
+      "latitude": "1.568808",
+      "longitude": "110.351693"
+    },
+    {
+      "_id": "3",
+      "latitude": "1.575824",
+      "longitude": "110.344323"
+    },
+    {
+      "_id": "4",
+      "latitude": "1.581675",
+      "longitude": "110.332541"
+    },
+    {
+      "_id": "5",
+      "latitude": "1.576561",
+      "longitude": "110.329021"
+    },
+    {
+      "_id": "6",
+      "latitude": "1.572523",
+      "longitude": "110.324424"
+    },
+    {
+      "_id": "7",
+      "latitude": "1.565607",
+      "longitude": "110.318632"
+    },
+    {
+      "_id": "8",
+      "latitude": "1.561205",
+      "longitude": "110.317168"
+    },
+    {
+      "_id": "9",
+      "latitude": "1.555923",
+      "longitude": "110.32312"
+    },
+    {
+      "_id": "10",
+      "latitude": "1.554352",
+      "longitude": "110.332057"
+    },
+    {
+      "_id": "11",
+      "latitude": "1.552354",
+      "longitude": "110.363961"
+    },
+    {
+      "_id": "12",
+      "latitude": "1.525529",
+      "longitude": "110.376935"
+    },
+    {
+      "_id": "13",
+      "latitude": "1.506601",
+      "longitude": "110.361146"
+    },
+    {
+      "_id": "14",
+      "latitude": "1.426931",
+      "longitude": "110.326455"
+    },
+    {
+      "_id": "15",
+      "latitude": "1.400375",
+      "longitude": "110.324643"
+    }
+  ],
+  "busStation2": [
+    {
+      "_id": "1",
+      "latitude": "1.400375",
+      "longitude": "110.324643"
+    },
+    {
+      "_id": "2",
+      "latitude": "1.422319",
+      "longitude": "110.32538"
+    },
+    {
+      "_id": "3",
+      "latitude": "1.425106",
+      "longitude": "110.3262"
+    },
+    {
+      "_id": "4",
+      "latitude": "1.427398",
+      "longitude": "110.326296"
+    },
+    {
+      "_id": "5",
+      "latitude": "1.438976",
+      "longitude": "110.32797"
+    },
+    {
+      "_id": "6",
+      "latitude": "1.448405",
+      "longitude": "110.327542"
+    },
+    {
+      "_id": "7",
+      "latitude": "1.457065",
+      "longitude": "110.324899"
+    },
+    {
+      "_id": "8",
+      "latitude": "1.476044",
+      "longitude": "110.330236"
+    },
+    {
+      "_id": "9",
+      "latitude": "1.506482",
+      "longitude": "110.365885"
+    },
+    {
+      "_id": "10",
+      "latitude": "1.515416",
+      "longitude": "110.352844"
+    },
+    {
+      "_id": "11",
+      "latitude": "1.5208",
+      "longitude": "110.356314"
+    },
+    {
+      "_id": "12",
+      "latitude": "1.524433",
+      "longitude": "110.377968"
+    },
+    {
+      "_id": "13",
+      "latitude": "1.54697",
+      "longitude": "110.365248"
+    },
+    {
+      "_id": "14",
+      "latitude": "1.553031",
+      "longitude": "110.335839"
+    },
+    {
+      "_id": "15",
+      "latitude": "1.562637",
+      "longitude": "110.346435"
+    }
+  ],
+  "station": {
+    "_id": "1",
+    "name": "Sarawak State Legislative Assembly",
+    "order": "1",
+    "scheduleArrival": "2019-07-08T10:37:28Z"
+  },
+  "station2": {
+    "_id": "1",
+    "name": "Orang Utan @ Semenggoh Wildlife Centre",
+    "order": "1",
+    "scheduleArrival": "2021-07-01T10:37:28Z"
+  },
+  "cctvCoordinates": [
+    {
+      "_id": "1",
+      "latitude": "1.400375",
+      "longitude": "110.324643"
+    },
+    {
+      "_id": "2",
+      "latitude": "1.422319",
+      "longitude": "110.32538"
+    },
+    {
+      "_id": "3",
+      "latitude": "1.425106",
+      "longitude": "110.3262"
+    },
+    {
+      "_id": "4",
+      "latitude": "1.427398",
+      "longitude": "110.326296"
+    },
+    {
+      "_id": "5",
+      "latitude": "1.438976",
+      "longitude": "110.32797"
+    },
+    {
+      "_id": "6",
+      "latitude": "1.448405",
+      "longitude": "110.327542"
+    },
+    {
+      "_id": "7",
+      "latitude": "1.457065",
+      "longitude": "110.324899"
+    },
+    {
+      "_id": "8",
+      "latitude": "1.476044",
+      "longitude": "110.330236"
+    },
+    {
+      "_id": "9",
+      "latitude": "1.506482",
+      "longitude": "110.365885"
+    },
+    {
+      "_id": "10",
+      "latitude": "1.515416",
+      "longitude": "110.352844"
+    },
+    {
+      "_id": "11",
+      "latitude": "1.5208",
+      "longitude": "110.356314"
+    },
+    {
+      "_id": "12",
+      "latitude": "1.524433",
+      "longitude": "110.377968"
+    },
+    {
+      "_id": "13",
+      "latitude": "1.54697",
+      "longitude": "110.365248"
+    },
+    {
+      "_id": "14",
+      "latitude": "1.553031",
+      "longitude": "110.335839"
+    },
+    {
+      "_id": "15",
+      "latitude": "1.562637",
+      "longitude": "110.346435"
+    }
+  ],
+  "cctvDetail": {
+    "_id": "1",
+    "location": "Jalan Song",
+    "image": "https://mot.sarawak.gov.my/modules/web/image_show.php?id=196",
+    "label": "CCTV-001",
+    "updateTime": "2021-07-01 17:10:53"
+  },
+  "termsAndCondition": {
+    "fileUrl": "https://www.mymobileapp.online/My-Mobile-App-Terms-Conditions.pdf"
+  },
+  "privacyPolicy": {
+    "fileUrl": "https://www.vdlnedcar.nl/_asset/_public/__site_134/Privacy/Mobile-App-Privacy-Policy-Template-VDLNC-V02-ENG.pdf"
+  },
+  "payout": [
+    {
+      "_id": 1,
+      "payout": {
+        "frequency": 1,
+        "bank_country": "Malaysia",
+        "bank_name": "Maybank",
+        "account_number": "0120312033",
+        "account_holder_name": "Jackson"
+      },
+      "statements": {
+        "legal_company_name": "Fehux Sdn Bhd",
+        "attention": "Gabriel",
+        "address": "Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur",
+        "post_code": 57100,
+        "city": "Kuala Lumpur",
+        "country": "Malaysia"
+      }
+    },
+    {
+      "_id": 1,
+      "payout": {
+        "frequency": 1,
+        "bank_country": "Malaysia",
+        "bank_name": "Maybank",
+        "account_number": "0120312033",
+        "account_holder_name": "Jackson"
+      },
+      "statements": {
+        "legal_company_name": "Fehux Sdn Bhd",
+        "attention": "Gabriel",
+        "address": "Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur",
+        "post_code": 57100,
+        "city": "Kuala Lumpur",
+        "country": "Malaysia"
+      }
+    },
+    {
+      "_id": 1,
+      "payout": {
+        "frequency": 1,
+        "bank_country": "Malaysia",
+        "bank_name": "Maybank",
+        "account_number": "0120312033",
+        "account_holder_name": "Jackson"
+      },
+      "statements": {
+        "legal_company_name": "Fehux Sdn Bhd",
+        "attention": "Gabriel",
+        "address": "Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur Kuala Lumpur",
+        "post_code": 57100,
+        "city": "Kuala Lumpur",
+        "country": "Malaysia"
+      }
+    }
+  ],
+  "store": [
+    {
+      "_id": 1,
+      "company_registration_id": "234241232141",
+      "store_name": "McD",
+      "mobile": "182927728",
+      "email": "mcd@gmail.com",
+      "status": "ENUM",
+      "verification": {
+        "is_verified": false
+      }
+    },
+    {
+      "_id": 2,
+      "company_registration_id": "string",
+      "store_name": "string",
+      "mobile": "int",
+      "email": "string",
+      "status": "ENUM",
+      "verification": {
+        "is_verified": "boolean"
+      }
+    },
+    {
+      "_id": 3,
+      "company_registration_id": "string",
+      "store_name": "string",
+      "mobile": "int",
+      "email": "string",
+      "status": "ENUM",
+      "verification": {
+        "is_verified": "boolean"
+      }
+    },
+    {
+      "ssm_no": "4234234234234",
+      "store_name": "Store Fehux",
+      "mobile": "0189292992",
+      "email": "jack@jcks.com",
+      "_id": 4
+    }
+  ],
+  "branches": [
+    {
+      "branch_name": "McD",
+      "is_grocer": true,
+      "is_restaurant": true,
+      "hours": {
+        "open": 8,
+        "close": 23
+      },
+      "address": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "location": {
+        "coordinates": [101.686855, 3.139003]
+      },
+      "branch_owner": "da",
+      "merchantstoreId": "1",
+      "_id": 1
+    },
+    {
+      "branch_name": "Burger & Lobster",
+      "is_grocer": false,
+      "is_restaurant": true,
+      "hours": {
+        "open": 8,
+        "close": 22
+      },
+      "address": "Lot SA - T2 - 13, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",
+      "location": {
+        "coordinates": [101.7948562, 3.4241081]
+      },
+      "merchantstoreId": "1",
+      "_id": 5
+    }
+  ],
+  "riders": [
+    {
+      "_id": 1,
+      "rider": "Jia Sheng Yeap",
+      "phone_no": "012-1234567",
+      "order_no": 1,
+      "eta": "31/8/2020, 8pm"
+    },
+    {
+      "_id": 2,
+      "rider": "Hui Min",
+      "phone_no": "012-9833467",
+      "order_no": 2,
+      "eta": "1/9/2020, 7.30pm"
+    },
+    {
+      "_id": 3,
+      "rider": "Chek Chien Wei",
+      "phone_no": "012-1234567",
+      "order_no": 3,
+      "eta": "4/9/2020, 1pm"
+    },
+    {
+      "_id": 4,
+      "rider": "Jia Sheng Yeap",
+      "phone_no": "012-1234567",
+      "order_no": 4,
+      "eta": "8/9/2020, 4pm"
+    },
+    {
+      "_id": 5,
+      "rider": "Jia Sheng Yeap",
+      "phone_no": "012-1234567",
+      "order_no": 5,
+      "eta": "9/9/2020, 6.30pm"
+    },
+    {
+      "_id": 6,
+      "rider": "Jia Sheng Yeap",
+      "phone_no": "012-1234567",
+      "order_no": 6,
+      "eta": "10/9/2020, 6.30pm"
+    }
+  ],
+  "orders": [
+    {
+      "_id": 1,
+      "rider": {
+        "first_name": "string",
+        "last_name": "string",
+        "mobile": "string"
+      },
+      "order_number": "string",
+      "eta": "timestamp",
+      "order": [
+        {
+          "_id": "string",
+          "name": "string",
+          "quantity": "int",
+          "unit_price": "int",
+          "variations": [
+            {
+              "variation_name": "string"
+            }
+          ]
+        }
+      ],
+      "status": "rider_picking_up"
+    },
+    {
+      "_id": 2,
+      "rider": {
+        "first_name": "string",
+        "last_name": "string",
+        "mobile": "string"
+      },
+      "order_number": "string",
+      "eta": "timestamp",
+      "order": [
+        {
+          "_id": "string",
+          "name": "string",
+          "quantity": "int",
+          "unit_price": "int",
+          "variations": [
+            {
+              "variation_name": "string"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "goods": [
+    {
+      "name": "Eggs",
+      "description": "1 Carton (12 pcs)",
+      "price": 9,
+      "weight": 500,
+      "dimensions": {
+        "width": 30,
+        "height": 30,
+        "depth": 30
+      },
+      "variations": [],
+      "_id": 1,
+      "image": [
+        {
+          "modificationDate": "1599471961000",
+          "width": 820,
+          "size": 36394,
+          "mime": "image/jpeg",
+          "height": 522,
+          "path": "file:///storage/emulated/0/Android/data/com.snailer_merchant/files/Pictures/c5270a13-eef5-4ad0-a259-1e711257306f.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Milk",
+      "description": "Fresh Milk",
+      "price": 5,
+      "weight": 300,
+      "dimensions": {
+        "width": 10,
+        "height": 20,
+        "depth": 10
+      },
+      "variations": [
+        {
+          "variation_name": "Dairy Free",
+          "price_change": 0
+        },
+        {
+          "variation_name": "Lactose Free",
+          "price_change": 2
+        }
+      ],
+      "_id": 2,
+      "image": [
+        {
+          "modificationDate": "1599471993000",
+          "width": 1600,
+          "size": 130461,
+          "mime": "image/jpeg",
+          "height": 1600,
+          "path": "file:///storage/emulated/0/Android/data/com.snailer_merchant/files/Pictures/b63a8e71-8700-4a0d-be5c-ec697051d8c0.jpg"
+        }
+      ]
+    }
+  ],
+  "food": [
+    {
+      "_id": 1,
+      "name": "Classic Cheese Burger",
+      "description": "Beef patty with a single slice of cheese",
+      "images": "string",
+      "price": 12,
+      "pax": 3,
+      "variations": [
+        {
+          "variation_group_name": "Burger",
+          "variation_group_description": "Burger Add-On",
+          "variations": [
+            {
+              "choice_title": "Size",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "Regular",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large",
+                  "price_change": 3
+                }
+              ]
+            },
+            {
+              "choice_title": "Cheese",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "1 Slice",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "2 Slices",
+                  "price_change": 1
+                }
+              ]
+            },
+            {
+              "choice_title": "Drink",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "Regular Coke",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large Coke",
+                  "price_change": 1
+                },
+                {
+                  "variation_name": "Regular Sprite ",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large Sprite",
+                  "price_change": 1
+                }
+              ]
+            }
+          ],
+          "_id": 3
+        }
+      ],
+      "image": [
+        {
+          "modificationDate": "1599471557000",
+          "width": 1200,
+          "size": 148058,
+          "mime": "image/jpeg",
+          "height": 800,
+          "path": "file:///storage/emulated/0/Android/data/com.snailer_merchant/files/Pictures/6659fc9d-6d88-4d2a-ac99-9bb73f3a40fd.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cripsy Chicken Burger",
+      "description": "Cripsy chicken patty with some tartar sauce",
+      "price": 10,
+      "_id": 2,
+      "image": [
+        {
+          "modificationDate": "1599471737000",
+          "width": 1200,
+          "size": 90081,
+          "mime": "image/jpeg",
+          "height": 900,
+          "path": "file:///storage/emulated/0/Android/data/com.snailer_merchant/files/Pictures/e561af86-495f-41b4-b1ec-65aef05df7e5.jpg"
+        }
+      ],
+      "variations": [
+        {
+          "variation_group_name": "Burger",
+          "variation_group_description": "Burger Add-On",
+          "variations": [
+            {
+              "choice_title": "Size",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "Regular",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large",
+                  "price_change": 3
+                }
+              ]
+            },
+            {
+              "choice_title": "Cheese",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "1 Slice",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "2 Slices",
+                  "price_change": 1
+                }
+              ]
+            },
+            {
+              "choice_title": "Drink",
+              "choice_number": 1,
+              "choices": [
+                {
+                  "variation_name": "Regular Coke",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large Coke",
+                  "price_change": 1
+                },
+                {
+                  "variation_name": "Regular Sprite ",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Large Sprite",
+                  "price_change": 1
+                }
+              ]
+            }
+          ],
+          "_id": 3
+        }
+      ]
+    }
+  ],
+  "food_variation": [
+    {
+      "_id": 2,
+      "variation_group_name": "Bubble Milk Tea",
+      "variation_group_description": "Bubble Milk Tea Add-On",
+      "variations": [
+        {
+          "choice_number": 1,
+          "choice_title": "Ice Level",
+          "choices": [
+            {
+              "variation_name": "No Ice",
+              "price_change": 0
+            },
+            {
+              "variation_name": "Half Ice",
+              "price_change": 0
+            },
+            {
+              "variation_name": "More Ice",
+              "price_change": 0
+            }
+          ]
+        },
+        {
+          "choice_number": 1,
+          "choice_title": "Sugar Level",
+          "choices": [
+            {
+              "variation_name": "0%",
+              "price_change": 0
+            },
+            {
+              "variation_name": "50%",
+              "price_change": 0
+            },
+            {
+              "variation_name": "100%",
+              "price_change": 0
+            }
+          ]
+        },
+        {
+          "choice_number": 1,
+          "choice_title": "Add On",
+          "choices": [
+            {
+              "variation_name": "Grass Jelly",
+              "price_change": 1
+            },
+            {
+              "variation_name": "Black ball",
+              "price_change": 1
+            },
+            {
+              "variation_name": "Coconut Jelly",
+              "price_change": 1.5
+            },
+            {
+              "variation_name": "Ice Cream",
+              "price_change": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variation_group_name": "Burger",
+      "variation_group_description": "Burger Add-On",
+      "variations": [
+        {
+          "choice_title": "Size",
+          "choice_number": 1,
+          "choices": [
+            {
+              "variation_name": "Regular",
+              "price_change": 0
+            },
+            {
+              "variation_name": "Large",
+              "price_change": 3
+            }
+          ]
+        },
+        {
+          "choice_title": "Cheese",
+          "choice_number": 1,
+          "choices": [
+            {
+              "variation_name": "1 Slice",
+              "price_change": 0
+            },
+            {
+              "variation_name": "2 Slices",
+              "price_change": 1
+            }
+          ]
+        },
+        {
+          "choice_title": "Drink",
+          "choice_number": 1,
+          "choices": [
+            {
+              "variation_name": "Regular Coke",
+              "price_change": 0
+            },
+            {
+              "variation_name": "Large Coke",
+              "price_change": 1
+            },
+            {
+              "variation_name": "Regular Sprite ",
+              "price_change": 0
+            },
+            {
+              "variation_name": "Large Sprite",
+              "price_change": 1
+            }
+          ]
+        }
+      ],
+      "_id": 3
+    }
+  ],
+  "goods_catalogues": [
+    {
+      "_id": 1,
+      "catalogue": [
+        {
+          "goods": [
+            {
+              "name": "Test Goods",
+              "description": "Test Goods Description",
+              "price": 123,
+              "weight": 123,
+              "dimensions": {
+                "width": 123,
+                "height": 123,
+                "depth": 123
+              },
+              "variations": [
+                {
+                  "variation_name": "Frozen",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Dried",
+                  "price_change": 0
+                }
+              ],
+              "_id": 1,
+              "quantity": 2
+            }
+          ],
+          "collection_name": "string"
+        }
+      ]
+    },
+    {
+      "_id": 2,
+      "catalogue": [
+        {
+          "goods": [
+            {
+              "name": "Test Goods",
+              "description": "Test Goods Description",
+              "price": 123,
+              "weight": 123,
+              "dimensions": {
+                "width": 123,
+                "height": 123,
+                "depth": 123
+              },
+              "variations": [
+                {
+                  "variation_name": "Frozen",
+                  "price_change": 0
+                },
+                {
+                  "variation_name": "Dried",
+                  "price_change": 0
+                }
+              ],
+              "_id": 1,
+              "quantity": 1
+            }
+          ],
+          "collection_name": "string"
+        }
+      ]
+    }
+  ],
+  "foods_catalogues": [
+    {
+      "catalogue": [
+        {
+          "food": [
+            {
+              "_id": 1,
+              "name": "string",
+              "description": "string",
+              "images": "string",
+              "price": 123,
+              "pax": 2,
+              "variations": [
+                {
+                  "variation_group_name": "TESTING",
+                  "variation_group_description": "test",
+                  "variations": [
+                    {
+                      "choice_title": "Test 1",
+                      "choice_number": 2,
+                      "choices": [
+                        {
+                          "variation_name": "hello",
+                          "price_change": 3
+                        },
+                        {
+                          "variation_name": "world",
+                          "price_change": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "_id": 3
+                }
+              ],
+              "quantity": 1
+            }
+          ],
+          "collection_name": "Combo A"
+        }
+      ],
+      "_id": 1
+    },
+    {
+      "catalogue": [
+        {
+          "food": [
+            {
+              "_id": 1,
+              "name": "string",
+              "description": "string",
+              "images": "string",
+              "price": 123,
+              "pax": 2,
+              "variations": [
+                {
+                  "variation_group_name": "TESTING",
+                  "variation_group_description": "test",
+                  "variations": [
+                    {
+                      "choice_title": "Test 1",
+                      "choice_number": 2,
+                      "choices": [
+                        {
+                          "variation_name": "hello",
+                          "price_change": 3
+                        },
+                        {
+                          "variation_name": "world",
+                          "price_change": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "_id": 3
+                }
+              ],
+              "quantity": 1
+            },
+            {
+              "_id": 1,
+              "name": "string",
+              "description": "string",
+              "images": "string",
+              "price": 123,
+              "pax": 2,
+              "variations": [
+                {
+                  "variation_group_name": "TESTING",
+                  "variation_group_description": "test",
+                  "variations": [
+                    {
+                      "choice_title": "Test 1",
+                      "choice_number": 2,
+                      "choices": [
+                        {
+                          "variation_name": "hello",
+                          "price_change": 3
+                        },
+                        {
+                          "variation_name": "world",
+                          "price_change": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "_id": 3
+                }
+              ],
+              "quantity": 1
+            }
+          ],
+          "collection_name": "Combo B"
+        }
+      ],
+      "_id": 2
+    }
+  ]
+}
