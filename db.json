@@ -60,6 +60,87 @@
       "_id": 5
     }
   ],
+  "talikhidmatCase": [
+    {
+      "id": "1",
+      "caseNumber": "A1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "2",
+      "caseNumber": "A123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "3",
+      "caseNumber": "B232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "4",
+      "caseNumber": "A1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "5",
+      "caseNumber": "A123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "6",
+      "caseNumber": "B232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "7",
+      "caseNumber": "A1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "8",
+      "caseNumber": "A123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "9",
+      "caseNumber": "B232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "10",
+      "caseNumber": "B232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "11",
+      "caseNumber": "A1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "12",
+      "caseNumber": "A123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "13",
+      "caseNumber": "B232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    }
+  ],
+  "emergencyCase": [],
   "busStation": [
     {
       "_id": "1",

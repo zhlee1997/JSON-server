@@ -102,6 +102,7 @@ server.use(
     //"/merchant/signin/google": "/user", //sign a merchant in
 
     "/api/mobile/talikhidmat/create": "/talikhidmat", // POST new case
+    "/api/mobile/talikhidmat/case?category=tali": "/talikhidmatCase", // GET talikhidmat case
 
     "/api/mobile/bus?routeId=1": "/busStation", // GET bus stations
     "/api/mobile/bus?routeId=2": "/busStation2", // GET bus stations
