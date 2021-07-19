@@ -102,7 +102,14 @@ server.use(
     //"/merchant/signin/google": "/user", //sign a merchant in
 
     "/api/mobile/talikhidmat/create": "/talikhidmat", // POST new case
-    "/api/mobile/talikhidmat/case?category=tali": "/talikhidmatCase", // GET talikhidmat case
+    "/api/mobile/talikhidmat/case?category=tali": "/talikhidmatCases", // GET talikhidmat case
+    "/api/mobile/talikhidmat/case?category=tali&caseId=:caseId":
+      "/talikhidmatCase", // GET talikhidmat case detail
+    "/api/mobile/talikhidmat/case/agency?category=tali&caseId=:caseId&agencyId=:agencyId":
+      "/talikhidmatCaseAgency", // GET talikhidmat case timeline
+    "/api/mobile/talikhidmat/case?category=emergency": "/EmergencyCases", // GET emergency case
+    "/api/mobile/talikhidmat/case?category=emergency&caseId=:caseId":
+      "/emergencyCase", // GET talikhidmat case detail
 
     "/api/mobile/bus?routeId=1": "/busStation", // GET bus stations
     "/api/mobile/bus?routeId=2": "/busStation2", // GET bus stations

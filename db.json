@@ -60,7 +60,7 @@
       "_id": 5
     }
   ],
-  "talikhidmatCase": [
+  "talikhidmatCases": [
     {
       "id": "1",
       "caseNumber": "A1232",
@@ -140,7 +140,166 @@
       "caseType": "0"
     }
   ],
-  "emergencyCase": [],
+  "talikhidmatCase": {
+    "_id": "A123345",
+    "status": "Pending",
+    "date": "2021-07-01T10:37:28Z",
+    "location": "Kota Samarahan",
+    "latitude": "1.572523",
+    "longitude": "110.324424",
+    "subcategory": "",
+    "message": "There is a big pathole on the pedestrian street.",
+    "images": [
+      "https://www.bernama.com/storage/photos/c1644e1a255722c358a0202b5546c6c45e7cd2edad34e",
+      "https://duns.sarawak.gov.my/modules/web/image_show.php?id=885"
+    ],
+    "agencies": [
+      {
+        "_id": "1",
+        "name": "Council of the City of Kuching South",
+        "status": "Pending"
+      },
+      {
+        "_id": "2",
+        "name": "Department of Irrigation and Drainage",
+        "status": "Resolved"
+      }
+    ]
+  },
+  "talikhidmatCaseAgency": [
+    {
+      "_id": "1",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "2",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "3",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "4",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "5",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "6",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "7",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    },
+    {
+      "_id": "8",
+      "description": "Please fix it immediately, MBPP and DBKU has done fixing it",
+      "dateTime": "2021-07-01T10:37:28Z"
+    }
+  ],
+  "EmergencyCases": [
+    {
+      "id": "1",
+      "caseNumber": "B1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "2",
+      "caseNumber": "B123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "3",
+      "caseNumber": "C232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "4",
+      "caseNumber": "B1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "5",
+      "caseNumber": "B123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "6",
+      "caseNumber": "C232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "7",
+      "caseNumber": "B1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "8",
+      "caseNumber": "B123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "9",
+      "caseNumber": "C232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    },
+    {
+      "id": "10",
+      "caseNumber": "C232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "11",
+      "caseNumber": "B1232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "12",
+      "caseNumber": "B123112",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "1"
+    },
+    {
+      "id": "13",
+      "caseNumber": "C232",
+      "caseSubmissionDate": "2021-07-01T10:37:28Z",
+      "caseType": "0"
+    }
+  ],
+  "emergencyCase": {
+    "_id": "B123345",
+    "status": "Pending",
+    "date": "2021-07-01T10:37:28Z",
+    "location": "",
+    "latitude": "1.572523",
+    "longitude": "110.324424",
+    "subcategory": "Others",
+    "message": "Request for help!.",
+    "images": [],
+    "agencies": []
+  },
   "busStation": [
     {
       "_id": "1",
